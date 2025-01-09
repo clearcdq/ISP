@@ -1,0 +1,4 @@
+中国移动ISP.txt filter=lfs diff=lfs merge=lfs -text
+中国联通ISP地址.txt filter=lfs diff=lfs merge=lfs -text
+教科网ISP.txt filter=lfs diff=lfs merge=lfs -text
+电信ISP地址.txt filter=lfs diff=lfs merge=lfs -text
